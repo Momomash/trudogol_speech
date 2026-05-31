@@ -1,1 +1,0 @@
-# trudogol_speech

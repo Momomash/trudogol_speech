@@ -1,0 +1,29 @@
+{
+  "name": "trudogol_speech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "slidev:dev": "slidev slides.md",
+    "slidev:build": "slidev build slides.md",
+    "slidev:export": "slidev export slides.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Momomash/trudogol_speech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Momomash/trudogol_speech/issues"
+  },
+  "homepage": "https://github.com/Momomash/trudogol_speech#readme",
+  "dependencies": {
+    "@slidev/cli": "^52.15.2",
+    "@slidev/theme-apple-basic": "^0.25.1",
+    "@slidev/theme-default": "^0.25.0"
+  }
+}
