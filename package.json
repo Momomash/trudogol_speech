@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "slidev:dev": "slidev slides.md",
-    "slidev:build": "slidev build slides.md",
+    "dev": "slidev --open",
+    "build": "slidev build",
     "slidev:export": "slidev export slides.md"
   },
   "repository": {
