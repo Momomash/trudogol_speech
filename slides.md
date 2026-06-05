@@ -459,3 +459,129 @@ layout: statement
 # "У меня просто высокие стандарты (с)"
 
 ---
+layout: section
+---
+
+# Акт 3
+
+### Личная история
+
+---
+layout: statement
+---
+
+# <span style='color: red'>Бессоница</span>
+
+---
+layout: intro-image-right
+image: assets/sleeep.webp
+---
+
+<v-clicks>
+
+# Начиналось безобидно
+## Ну кому не снилась работа? 
+### <span style="color: red">Жаль, что во сне нельзя делать git push</span>
+
+</v-clicks>
+
+---
+layout: intro-image-right
+image: assets/sleep.png
+---
+
+<v-clicks>
+
+- ложусь спать
+- не могу уснуть
+- ворочаюсь
+- <span style="color: red"> "пойду поработаю" </span>
+- <span style="color: red"> встречаю рассвет за джирой </span>
+- <span style="color: red"> (слушаю лекцию о вреде от мужа) </span>
+
+</v-clicks>
+
+---
+layout: intro-image-right
+image: assets/sleep_grey.png
+---
+
+<v-clicks>
+
+- ложусь спать
+- не могу уснуть
+- ворочаюсь
+- <span style="color: red"> "если пойду работать дома — выхвачу" </span>
+- <span style="color: red"> долеживаю до 05:00 </span>
+- <span style="color: red"> в 05:30 на носочках выхожу из дома </span>
+- <span style="color: red"> в 06:00 встречаюсь взглядом с охранником офиса </span>
+- <span style="color: red"> работаю без обеда до 18 </span>
+- <span style="color: red"> еду домой удовлетворенная сколько тасок переделала </span>
+
+</v-clicks>
+
+---
+layout: intro-image-right
+image: assets/tasher.png
+---
+
+<v-clicks>
+
+* “Я не болею, я тащер” 
+* “Ну а кто, если не я, сделает хорошо?”
+* “Они не понимают, я КАРЬЕРУ строю”
+
+</v-clicks>
+
+---
+layout: intro-image-right
+image: assets/not_sleep.jpg
+---
+
+# <span style="color: red"> Замкнутый круг </span>
+
+<v-clicks>
+
+1. 1). не можешь спать
+2. 2). работу работаешь
+3. 3). устаешь, голову не переключаешь
+4. 4). смотри пункт 1
+
+</v-clicks>
+
+---
+layout: statement
+---
+
+## Сон — это не “мелкая побочка”, а один из первых честных индикаторов того, что система перегружена
+
+---
+layout: statement
+---
+
+# <span style='color: red'>Нычки</span>
+### <span style='color: red'> (Место, где хранятся заначки, продукты или вещи от посторонних глаз)</span>
+
+---
+layout: intro-image-right
+image: assets/hidden.png
+---
+
+<v-clicks>
+
+- я стала держать два окна браузера — одно для работы, второе "<span style='color: red'>типа</span>" не работаю
+- я научилась <span style='color: red'>делать вид</span>, что не работаю
+- я научилась прислушиваться к звуку ключей в двери чтобы не <span style='color: red'>попасться</span>
+- я не пушила вечером, оставляя на утро
+- я гуглила как менять время коммитов
+
+</v-clicks>
+
+---
+layout: statement
+---
+# Ничего не напоминает? 
+---
+layout: image
+image: assets/vodka.png
+---
