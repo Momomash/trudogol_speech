@@ -86,7 +86,7 @@ layout: statement
 
 ---
 layout: intro-image-right
-image: assets/me.jpg
+image: /me.jpg
 ---
 
 <v-clicks>
@@ -100,7 +100,7 @@ image: assets/me.jpg
 
 ---
 layout: intro-image-right
-image: assets/long.jpg
+image: /long.jpg
 ---
 
 - Руковожу разработкой интерфейсов в BIOCAD ~~и что-то понимаю в биологии~~
@@ -152,7 +152,7 @@ layout: statement
 
 ---
 layout: intro-image-right
-image: assets/fine.png
+image: /fine.png
 ---
 
 <span style='color: green'>трудолюбие</span> и <span style='color: red'>трудоголизм</span> выглядят похоже снаружи, но
@@ -200,47 +200,47 @@ layout: statement
 
 ---
 
-<img src="./assets/neo.png">
+<img src=".//neo.png">
 <i>Фильм "Матрица" (1999)</i>
 
 ---
 
-<img src="./assets/space.png">
+<img src=".//space.png">
 <i>Фильм "Office Space" (1999)</i>
 
 ---
 
-<img src="./assets/south.png">
+<img src=".//south.png">
 <i>Южный парк, эпизод "Make love, not Warcraft" (2004)</i>
 
 ---
 
-<img src="./assets/komp.png">
+<img src=".//komp.png">
 <i>Сериал "Компьютерщики" (2006)</i>
 
 ---
 
-<img src="./assets/silicon.png">
+<img src=".//silicon.png">
 <i>Сериал "Кремниевая долина" (2014)</i>
 
 ---
 
-<img src="./assets/gill_red.png">
+<img src=".//gill_red.png">
 <i>Сериал "Кремниевая долина" (2014)</i>
 
 ---
 
-<img src="./assets/robot.png">
+<img src=".//robot.png">
 <i>Сериал "Мистер Робот" (2015)</i>
 
 ---
 
-<img src="./assets/mystic.png">
+<img src=".//mystic.png">
 <i>Сериал "Мистический квест" (2020)</i>
 
 ---
 
-<img src="./assets/mystic.png">
+<img src=".//mystic.png">
 <i>Сериал "Мистический квест" (2020)</i>
 
 ---
@@ -251,17 +251,17 @@ layout: statement
 
 ---
 
-<img src="./assets/typical_img.png">
+<img src=".//typical_img.png">
 <i>Как видит программиста GPT-5.4</i>
 
 ---
 
-<img src="./assets/typical_desc.png">
+<img src=".//typical_desc.png">
 <i>Как описывает программиста GPT-5.4</i>
 
 ---
 layout: image-right
-image: assets/before.png
+image: /before.png
 ---
 
 # Типичный образ
@@ -278,12 +278,12 @@ image: assets/before.png
 </v-clicks>
 
 <v-click>
-<img src="./assets/mid.png">
+<img src=".//mid.png">
 </v-click>
 
 ---
 layout: image-right
-image: assets/remote.png
+image: /remote.png
 ---
 
 <v-click>
@@ -474,7 +474,7 @@ layout: statement
 
 ---
 layout: intro-image-right
-image: assets/sleeep.webp
+image: /sleeep.webp
 ---
 
 <v-clicks>
@@ -487,7 +487,7 @@ image: assets/sleeep.webp
 
 ---
 layout: intro-image-right
-image: assets/sleep.png
+image: /sleep.png
 ---
 
 <v-clicks>
@@ -503,7 +503,7 @@ image: assets/sleep.png
 
 ---
 layout: intro-image-right
-image: assets/sleep_grey.png
+image: /sleep_grey.png
 ---
 
 <v-clicks>
@@ -522,7 +522,7 @@ image: assets/sleep_grey.png
 
 ---
 layout: intro-image-right
-image: assets/tasher.png
+image: /tasher.png
 ---
 
 <v-clicks>
@@ -535,7 +535,7 @@ image: assets/tasher.png
 
 ---
 layout: intro-image-right
-image: assets/not_sleep.jpg
+image: /not_sleep.jpg
 ---
 
 # <span style="color: red"> Замкнутый круг </span>
@@ -564,7 +564,7 @@ layout: statement
 
 ---
 layout: intro-image-right
-image: assets/hidden.png
+image: /hidden.png
 ---
 
 <v-clicks>
@@ -583,5 +583,5 @@ layout: statement
 # Ничего не напоминает? 
 ---
 layout: image
-image: assets/vodka.png
+image: /vodka.png
 ---
