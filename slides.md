@@ -200,47 +200,47 @@ layout: statement
 
 ---
 
-<img src=".//neo.png">
+<img src="/public/neo.png">
 <i>Фильм "Матрица" (1999)</i>
 
 ---
 
-<img src=".//space.png">
+<img src="/public/space.png">
 <i>Фильм "Office Space" (1999)</i>
 
 ---
 
-<img src=".//south.png">
+<img src="/public/south.png">
 <i>Южный парк, эпизод "Make love, not Warcraft" (2004)</i>
 
 ---
 
-<img src=".//komp.png">
+<img src="/public/komp.png">
 <i>Сериал "Компьютерщики" (2006)</i>
 
 ---
 
-<img src=".//silicon.png">
+<img src="/public/silicon.png">
 <i>Сериал "Кремниевая долина" (2014)</i>
 
 ---
 
-<img src=".//gill_red.png">
+<img src="/public/gill_red.png">
 <i>Сериал "Кремниевая долина" (2014)</i>
 
 ---
 
-<img src=".//robot.png">
+<img src="/public/robot.png">
 <i>Сериал "Мистер Робот" (2015)</i>
 
 ---
 
-<img src=".//mystic.png">
+<img src="/public/mystic.png">
 <i>Сериал "Мистический квест" (2020)</i>
 
 ---
 
-<img src=".//mystic.png">
+<img src="/public/mystic.png">
 <i>Сериал "Мистический квест" (2020)</i>
 
 ---
@@ -251,12 +251,12 @@ layout: statement
 
 ---
 
-<img src=".//typical_img.png">
+<img src="/public/typical_img.png">
 <i>Как видит программиста GPT-5.4</i>
 
 ---
 
-<img src=".//typical_desc.png">
+<img src="/public/typical_desc.png">
 <i>Как описывает программиста GPT-5.4</i>
 
 ---
@@ -278,7 +278,7 @@ image: /before.png
 </v-clicks>
 
 <v-click>
-<img src=".//mid.png">
+<img src="/public/mid.png">
 </v-click>
 
 ---
