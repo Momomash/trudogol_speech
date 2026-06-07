@@ -805,3 +805,164 @@ layout: statement
 # когда становится <span style="color: red">бессознательным</span>, это тревожный звонок. 
 
 </v-click>
+
+---
+layout: section
+---
+
+# Акт 5
+
+### Ну допустим, а что делать то?
+
+---
+layout: intro-image-right
+image: /roof.png
+---
+
+# <span style="color: red"> Звоночки:</span> 
+
+<v-clicks>
+
+- сон
+- вытеснение жизни
+- секретность
+- бессознательность
+
+</v-clicks>
+
+---
+layout: statement
+---
+
+# Что делать то? 
+
+---
+layout: intro-image-right
+image: /dragon.png
+---
+
+## <span style="color: green">Не геройствуйте</span>
+
+<br/>
+
+<v-clicks>
+
+- Планируйте нагрузку
+- Если впереди пик нагрузки, снимайте с себя то, что можно
+- Усталость делает всё тяжелее, даже обычный бытовой хаос
+
+</v-clicks>
+
+---
+layout: intro-image-right
+image: /cat_wait.jpg
+---
+
+## <span style="color: green">У тяжёлого периода должен быть выход</span>
+
+<br/>
+
+<v-clicks>
+
+- Восстановление нужно планировать так же, как дедлайн 
+- Пообещайте себе что-то в конце: отдых, поездку, награду
+
+</v-clicks>
+
+---
+layout: intro-image-right
+image: /5_2.jpg
+---
+
+## <span style="color: green">Слушайте тело</span>
+
+<br/>
+
+<v-clicks>
+
+- Сон 
+- Дыхание 
+- "Хроничка" 
+- Усталость 
+- Раздражительность
+
+</v-clicks>
+
+---
+layout: intro-image-right
+image: /cat_not_sleep.png
+---
+
+## <span style="color: green">Спать. Надо.</span>
+
+<br/>
+
+<v-clicks>
+
+- Надо. Спать.
+- Настройте режим
+- Если не засыпается примерно 15–20 минут, лучше встать ( <a href="https://www.sleepprimarycareresources.org.au/insomnia/bbti/insomnia-stimulus-control-therapy" target="_blank">insomnia stimulus control therapy</a> )
+
+</v-clicks>
+
+---
+layout: intro-image-right
+image: /yarn.jpeg
+---
+
+## <span style="color: green">Хобби/спорт/жизнь</span>
+
+<br/>
+
+<v-clicks>
+
+- Вы — не только работа и "харды"
+- Пробуйте новое (я про хобби!)
+- Найдите интересный спорт
+- Гуляйте
+- Заведите собаню
+- Touch grass
+
+</v-clicks>
+
+---
+layout: intro-image-right
+image: /not_work.jpg
+---
+
+## <span style="color: green">Не всё надо вывозить</span>
+
+<br/>
+
+<v-clicks>
+
+- Учитесь говорить "нет". 
+- Не каждый рывок надо выигрывать 
+- Вовремя остановиться — это не слабость, а ответственность
+
+</v-clicks>
+
+---
+layout: image
+image: /fence.jpg
+---
+
+---
+layout: image
+image: /aos.png
+---
+
+---
+layout: image
+image: /games.png
+---
+
+---
+layout: image
+image: /dog.jpg
+---
+
+---
+layout: image
+image: /holy.png
+---
