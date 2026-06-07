@@ -266,7 +266,7 @@ image: /before.png
 
 # Типичный образ
 
-##      
+##       
 
 <v-clicks>
 
@@ -356,9 +356,12 @@ layout: statement
 
 <v-clicks> 
 
-- Трудоголизм — **поведенческая <span style="color: red">зависимость</span>**: потеря контроля, поглощённость, абстиненция, вред для жизни
-- Отличие от вовлеченности: <span style="color: green">вовлечённость</span> позитивна и связана со здоровьем; <span style="color: red">трудоголизм</span> — компульсивен и разрушителен
-- **Дети трудоголиков** берут родительские роли раньше времени и депрессивны — как дети <span style="color: red">алкоголиков</span>
+- Трудоголизм — **поведенческая <span style="color: red">зависимость</span>**: потеря контроля, поглощённость,
+  абстиненция, вред для жизни
+- Отличие от вовлеченности: <span style="color: green">вовлечённость</span> позитивна и связана со
+  здоровьем; <span style="color: red">трудоголизм</span> — компульсивен и разрушителен
+- **Дети трудоголиков** берут родительские роли раньше времени и депрессивны — как дети <span style="color: red">
+  алкоголиков</span>
 - Связан с повышенным давлением, тревогой, бессонницей, выгоранием, набором веса
 - Доказательная база лечения слабая — исследований мало
 
@@ -376,14 +379,14 @@ layout: statement
 
 <v-click>
 
-## 4 типа трудоголиков: 
+## 4 типа трудоголиков:
 
 </v-click>
 
 <v-clicks>
 
-- **bulimic** (запоями), 
-- **relentless** (без остановок), 
+- **bulimic** (запоями),
+- **relentless** (без остановок),
 - **savoring** (смакует детали),
 - *attention-deficit** (перепрыгивает с задачи на задачу)
 
@@ -480,7 +483,9 @@ image: /sleeep.webp
 <v-clicks>
 
 # Начиналось безобидно
-## Ну кому не снилась работа? 
+
+## Ну кому не снилась работа?
+
 ### <span style="color: red">Жаль, что во сне нельзя делать git push</span>
 
 </v-clicks>
@@ -527,7 +532,7 @@ image: /tasher.png
 
 <v-clicks>
 
-* “Я не болею, я тащер” 
+* “Я не болею, я тащер”
 * “Ну а кто, если не я, сделает хорошо?”
 * “Они не понимают, я КАРЬЕРУ строю”
 
@@ -560,6 +565,7 @@ layout: statement
 ---
 
 # <span style='color: red'>Нычки</span>
+
 ### <span style='color: red'> (Место, где хранятся заначки, продукты или вещи от посторонних глаз)</span>
 
 ---
@@ -580,8 +586,222 @@ image: /hidden.png
 ---
 layout: statement
 ---
-# Ничего не напоминает? 
+# Ничего не напоминает?
 ---
 layout: image
 image: /vodka.png
 ---
+
+---
+layout: statement
+---
+# Если работу уже приходится <span style='color: red'>прятать</span> — это нехороший знак
+---
+layout: section
+---
+
+# Акт 4
+
+### Пу-пу-пу
+
+---
+layout: statement
+---
+
+# Если ты не слушаешь голову, то начинает кричать организм
+
+---
+layout: statement
+---
+
+# Сначала + 20кило к весу
+
+### (Фоном было правильное питание и три фехтования в неделю)
+
+---
+layout: statement
+---
+
+# Потом вернулась астма
+
+---
+layout: intro-image-right
+image: /meditate.png
+---
+
+<v-clicks>
+
+* <span style="color: red">Триггеришься</span> на безобидные шутки
+* <span style="color: red">Отстраняешься</span> от коллег/друзей/развлечений
+* Начинаешься <span style="color: red">отказываться</span> от хобби в пользу работы
+
+</v-clicks>
+
+---
+layout: intro-image-right
+image: /not_sun.png
+---
+
+## "Да ну нет никаких проблем"
+
+<v-clicks>
+
+### "Просто так совпало"
+
+</v-clicks>
+
+---
+layout: statement
+---
+
+# А потом я начала задыхаться
+
+---
+layout: intro-image-right
+image: /cat_sleep.png
+---
+
+<v-clicks>
+
+* Начиналось с безобидной зевоты
+* "Я просто часто зеваю"
+* Не могу надышаться — не хватает воздуха
+* Ингалятор не помогает
+* "Кажется это не астма?"
+
+</v-clicks>
+
+---
+layout: intro-image-right
+image: /cat_wait.jpg
+---
+
+## "Нервная зевота"
+
+<v-clicks>
+
+* Зевота — реальный физиологический рефлекс
+* Она может усиливаться на фоне стресса, тревоги и перегрузки
+* Есть данные о связи зевоты со стрессом, тревогой, сонливостью и нарушением регуляции
+* Одна из самых обсуждаемых гипотез — терморегуляция: зевота помогает охлаждать мозг
+
+</v-clicks>
+
+<div class="absolute bottom-10 text-sm opacity-50">
+  Источники:
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3678674/" target="_blank">PMC review</a>,
+  <a href="https://pubmed.ncbi.nlm.nih.gov/18550130/" target="_blank">Gallup & Gallup, 2008</a>
+</div>
+
+---
+layout: image
+image: /pupupu.png
+---
+
+---
+layout: intro-image-right
+image: /health.png
+---
+
+## <span style="color: red">Как задолбать организм</span>
+<br/>
+
+<v-clicks>
+
+* Трудоголизм не только про ментальные симптомы, но и про физические и метаболические проблемы
+* Сверхурочная работа 3–4 часа в день — риск ишемической болезни сердца в 1.6 раза выше
+* Каждые дополнительные 15 минут физической активности повышают шанс не иметь болезней
+
+</v-clicks>
+
+<div class="absolute bottom-10 text-sm opacity-50">
+  Источник:
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11576946/" target="_blank">Beyond the 9-to-5 grind: workaholism and its potential influence on human health and disease</a>
+</div>
+
+---
+layout: statement
+---
+
+# Трудоголизм — это  <span style="color: red">социально одобряемый</span> способ себя разрушать
+
+### <span style="color: red">Зато не алкоголик, а тащер</span>
+
+---
+layout: intro-image-right
+image: /silicon_1.png
+---
+
+<v-clicks>
+
+* "Айтишный культ"
+* IT — как магия и спасение
+* Конкуренция
+* "Рынок работодателя"
+* Страх устаревания из-за ИИ
+* ...
+* <span style="color: red">"Буду херачить БОЛЬШЕ чтобы доказатель полезность"</span>
+
+</v-clicks>
+
+---
+layout: image
+image: /not_happy.jpeg
+---
+
+---
+layout: statement
+---
+## Я не излечилась, но научилась замечать "звоночки" и не всегда им подчиняться
+
+---
+layout: intro-image-right
+image: /crisis.png
+---
+
+# <span style="color: red">Кризисы вообще неизбежны...</span>
+
+<v-click>
+
+- события в мире
+- смена работы
+- ремонт
+- бытовуха
+- экзистенциальный кризис
+
+</v-click>
+
+<v-click>
+
+### Кризис не должен вести в саморазрушение через работу
+
+</v-click>
+
+---
+layout: statement
+---
+### А еще.. 
+
+<v-click>
+
+# Где граница между любовью к делу и зависимостью?
+
+</v-click>
+
+---
+layout: statement
+---
+
+### Моя теория: 
+
+<v-click>
+
+# пока у тебя есть <span style="color: red">свобода остановиться</span>, это любовь.
+
+</v-click>
+
+<v-click>
+
+# когда становится <span style="color: red">бессознательным</span>, это тревожный звонок. 
+
+</v-click>
