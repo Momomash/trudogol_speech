@@ -966,3 +966,43 @@ image: /dog.jpg
 layout: image
 image: /holy.png
 ---
+
+---
+layout: statement
+---
+
+# Собственно к чему всё это.. 
+
+---
+layout: statement
+---
+
+# Работу/работать можно любить сильно, но не ценой исчезновения всего остального.
+
+---
+layout: statement
+---
+
+# Полезно иногда останавливаться и задавать себе вопрос "зачем?"
+
+---
+layout: intro-image-right
+image: /mogila.jpg
+---
+
+<v-clicks>
+
+## Ваш проект, скорее всего, переживёт один вечер без вас. 
+
+## <span style="color: red">А вот вы без себя — нет.</span>
+
+</v-clicks>
+
+---
+layout: statement
+---
+
+# Завершающий слайд для пива
+# 🍻🍻🍻
+
+
