@@ -1,0 +1,11 @@
+.slidev-layout {
+    font-size: 1.7rem;
+}
+.slidev-layout li{
+    font-size: 1.5rem;
+}
+
+.slidev-layout h2 {
+    opacity: 0.7;
+    text-transform: uppercase;
+}

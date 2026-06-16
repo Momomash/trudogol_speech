@@ -6,12 +6,57 @@ title: Дневник неанонимного трудоголика
 layout: intro
 ---
 
-# Дневник <br/> неанонимного <br/> трудоголика
+<style>
+li {
+  font-size: 1.5rem;
+}
+</style>
 
-<div class="absolute bottom-10">
-  <span class="font-700">
- Кондаурова Мария  •  BIOCAD  •  Moscow DrinkUp  •  18.06.2026
-  </span>
+<div class="absolute inset-0 bg-[radial-gradient(circle_at_82%_22%,rgba(255,170,60,0.18),transparent_0_22%),linear-gradient(135deg,#0f0f10_0%,#151515_45%,#1b140d_100%)]"></div>
+
+<div class="absolute inset-0 pointer-events-none">
+  <div class="absolute right-[14%] top-[14%] h-[260px] w-[260px] rounded-full bg-[#ff9a1f]/10 blur-3xl"></div>
+  <div class="absolute left-[8%] bottom-[18%] h-[180px] w-[180px] rounded-full bg-[#ffb347]/6 blur-3xl"></div>
+</div>
+
+<div class="absolute left-16 top-14 z-10">
+  <div class="inline-flex items-center rounded-full border border-[#ffb347]/25 bg-[#ffb347]/8 px-4 py-1.5 text-sm uppercase tracking-[0.18em] text-[#ffd08a]">
+    личная история
+  </div>
+</div>
+
+<div class="absolute left-16 top-30 z-10 max-w-[760px]">
+  <h1 class="m-0 text-[74px] leading-[0.92] font-800 tracking-[-0.05em]">
+    Дневник
+    <br />
+    неанонимного
+    <br />
+    <span class="text-[#ff9a1f]">трудоголика</span>
+  </h1>
+
+  <div class="mt-8 flex items-center gap-4">
+    <img
+      src="/public/me.jpg"
+      alt="Мария Кондаурова"
+      class="h-14 w-14 rounded-full object-cover ring-2 ring-[#ffb347]/60 shadow-lg"
+    />
+    <p class="m-0 text-[22px] leading-snug text-white/72">
+      Кондаурова Мария
+    </p>
+  </div>
+</div>
+
+<div class="absolute right-16 bottom-9 z-10 flex items-center gap-5 rounded-full border border-white/10 bg-white/4 px-5 py-3 backdrop-blur-sm">
+  <img
+    src="/public/logo_drink.png"
+    alt="Moscow DrinkUp"
+    class="h-20 w-auto object-contain"
+  />
+  <img
+    src="/public/logo_biocad.svg"
+    alt="BIOCAD"
+    class="h-20 w-auto object-contain"
+  />
 </div>
 
 ---
@@ -32,7 +77,7 @@ layout: section
 
 # Акт 1
 
-### Смешно, потому что знакомо
+## Смешно, потому что знакомо
 
 ---
 layout: statement
@@ -40,7 +85,7 @@ layout: statement
 
 # Расправим плечики
 
-### Спикер опять будет просить поднимать руки
+## Спикер опять будет просить поднимать руки
 
 ---
 layout: statement
@@ -128,13 +173,13 @@ layout: statement
 layout: statement
 ---
 
-## Этот доклад не про “работать плохо” <v-click> (не надейтесь)</v-click>
+# Этот доклад не про “работать плохо” <v-click> (не надейтесь)</v-click>
 
 <br/>
 
 <v-click>
 
-## это доклад про “можно перегнуть”
+# это доклад про “можно перегнуть”
 
 </v-click>
 
@@ -146,7 +191,7 @@ layout: statement
 
 <v-click>
 
-### Мы бы не полетели в космос и не сделали другие классные штуки
+## ...Иначе мы не полетели бы в космос
 
 </v-click>
 
@@ -162,10 +207,22 @@ image: /fine.png
 layout: quote
 ---
 
-# "Трудоголизм — <v-click> это внутреннее давление работать, </v-click> <v-click> навязчивые мысли о работе, </v-click> <v-click>негативные эмоции без работы </v-click> <v-click> и работа сверх того, что реально требуется."</v-click>
 
-<v-click>(Саммари многих определений трудоголизма)</v-click>
+<div class="max-w-[1100px]">
+  <div class="mb-6 inline-flex items-center rounded-full border border-orange-300/30 bg-orange-400/8 px-4 py-1 text-sm uppercase tracking-[0.18em] text-orange-300/80">
+    Саммари многих определений:
+  </div>
 
+  <blockquote class="m-0 border-l-4 border-orange-400/70 pl-8">
+    <div class="text-[42px] leading-[1.22] font-650 tracking-[-0.02em]">
+      <span class="text-white/95">«Трудоголизм —</span>
+      <v-click><span class="text-orange-300"> это внутреннее давление работать,</span></v-click>
+      <v-click><span class="text-amber-200"> навязчивые мысли о работе,</span></v-click>
+      <v-click><span class="text-orange-200"> негативные эмоции без работы</span></v-click>
+      <v-click><span class="text-white/95"> и работа сверх того, что реально требуется».</span></v-click>
+    </div>
+  </blockquote>
+</div>
 ---
 layout: statement
 ---
@@ -178,7 +235,7 @@ layout: section
 
 # Акт 2
 
-### Почему именно мы и немного науки
+## Почему именно мы и немного науки
 
 ---
 layout: statement
@@ -189,11 +246,9 @@ layout: statement
 <v-click>
 <span style="color: red">
 
-## В айтишной культуре переработка
-
-## ===
-
-## талант и ответственность
+# В айтишной культуре переработка
+# ===
+# талант и ответственность
 
 </span>
 </v-click>
@@ -467,7 +522,7 @@ layout: section
 
 # Акт 3
 
-### Личная история
+## Личная история
 
 ---
 layout: statement
@@ -486,7 +541,7 @@ image: /sleeep.webp
 
 ## Ну кому не снилась работа?
 
-### <span style="color: red">Жаль, что во сне нельзя делать git push</span>
+## <span style="color: red">Жаль, что во сне нельзя делать git push</span>
 
 </v-clicks>
 
@@ -516,12 +571,12 @@ image: /sleep_grey.png
 - ложусь спать
 - не могу уснуть
 - ворочаюсь
-- <span style="color: red"> "если пойду работать дома — выхвачу" </span>
-- <span style="color: red"> долеживаю до 05:00 </span>
-- <span style="color: red"> в 05:30 на носочках выхожу из дома </span>
-- <span style="color: red"> в 06:00 встречаюсь взглядом с охранником офиса </span>
-- <span style="color: red"> работаю без обеда до 18 </span>
-- <span style="color: red"> еду домой удовлетворенная сколько тасок переделала </span>
+- <span style="color: red"> "пойду работать -> выхвачу"</span>
+- <span style="color: red"> долеживаю до 05:00</span>
+- <span style="color: red"> в 05:30 на носочках выхожу</span>
+- <span style="color: red"> в 06:00 в офисе</span>
+- <span style="color: red"> работаю до 18</span>
+- <span style="color: red"> еду домой большая молодец</span>
 
 </v-clicks>
 
@@ -558,7 +613,13 @@ image: /not_sleep.jpg
 layout: statement
 ---
 
-## Сон — это не “мелкая побочка”, а один из первых честных индикаторов того, что система перегружена
+# Сон !== “мелкая побочка”
+
+<v-click>
+
+# <span style="color:red">Сон === сигнал, что система перегружена</span>
+
+</v-click>
 
 ---
 layout: statement
@@ -566,7 +627,7 @@ layout: statement
 
 # <span style='color: red'>Нычки</span>
 
-### <span style='color: red'> (Место, где хранятся заначки, продукты или вещи от посторонних глаз)</span>
+## <span style='color: red'> (Место, где хранятся заначки, продукты или вещи от посторонних глаз)</span>
 
 ---
 layout: intro-image-right
@@ -602,7 +663,7 @@ layout: section
 
 # Акт 4
 
-### Пу-пу-пу
+## Пу-пу-пу
 
 ---
 layout: statement
@@ -616,7 +677,7 @@ layout: statement
 
 # Сначала + 20кило к весу
 
-### (Фоном было правильное питание и три фехтования в неделю)
+## (Фоном было правильное питание и три фехтования в неделю)
 
 ---
 layout: statement
@@ -642,11 +703,11 @@ layout: intro-image-right
 image: /not_sun.png
 ---
 
-## "Да ну нет никаких проблем"
+# "Да ну нет никаких проблем"
 
 <v-clicks>
 
-### "Просто так совпало"
+# "Просто так совпало"
 
 </v-clicks>
 
@@ -676,14 +737,13 @@ layout: intro-image-right
 image: /cat_wait.jpg
 ---
 
-## "Нервная зевота"
+# "Нервная зевота"
 
 <v-clicks>
 
 * Зевота — реальный физиологический рефлекс
-* Она может усиливаться на фоне стресса, тревоги и перегрузки
-* Есть данные о связи зевоты со стрессом, тревогой, сонливостью и нарушением регуляции
-* Одна из самых обсуждаемых гипотез — терморегуляция: зевота помогает охлаждать мозг
+* Установлена связь с связи зевоты со стрессом, тревогой, и перегрузкой
+* Одна из гипотез — терморегуляция
 
 </v-clicks>
 
@@ -703,20 +763,18 @@ layout: intro-image-right
 image: /health.png
 ---
 
-## <span style="color: red">Как задолбать организм</span>
-<br/>
+# <span style="color: red">Как задолбать организм</span>
 
 <v-clicks>
 
-* Трудоголизм не только про ментальные симптомы, но и про физические и метаболические проблемы
-* Сверхурочная работа 3–4 часа в день — риск ишемической болезни сердца в 1.6 раза выше
-* Каждые дополнительные 15 минут физической активности повышают шанс не иметь болезней
+* Трудоголизм не только про менталку
+* Овертайм 3–4 часа в день -> повышают в 1.6 риск ишемической болезни сердца
 
 </v-clicks>
 
 <div class="absolute bottom-10 text-sm opacity-50">
   Источник:
-  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11576946/" target="_blank">Beyond the 9-to-5 grind: workaholism and its potential influence on human health and disease</a>
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11576946/" target="_blank">Beyond the 9-to-5 grind</a>
 </div>
 
 ---
@@ -725,7 +783,7 @@ layout: statement
 
 # Трудоголизм — это  <span style="color: red">социально одобряемый</span> способ себя разрушать
 
-### <span style="color: red">Зато не алкоголик, а тащер</span>
+## <span style="color: red">Зато не алкоголик, а тащер</span>
 
 ---
 layout: intro-image-right
@@ -740,7 +798,7 @@ image: /silicon_1.png
 * "Рынок работодателя"
 * Страх устаревания из-за ИИ
 * ...
-* <span style="color: red">"Буду херачить БОЛЬШЕ чтобы доказатель полезность"</span>
+* <span style="color: red">"Буду херачить БОЛЬШЕ чтобы доказать полезность"</span>
 
 </v-clicks>
 
@@ -752,7 +810,13 @@ image: /not_happy.jpeg
 ---
 layout: statement
 ---
-## Я не излечилась, но научилась замечать "звоночки" и не всегда им подчиняться
+# Я не излечилась
+
+<v-click>
+
+# но научилась замечать "звоночки" и не всегда им подчиняться
+
+</v-click>
 
 ---
 layout: intro-image-right
@@ -773,14 +837,14 @@ image: /crisis.png
 
 <v-click>
 
-### Кризис не должен вести в саморазрушение через работу
+## Кризис не должен вести в саморазрушение через работу
 
 </v-click>
 
 ---
 layout: statement
 ---
-### А еще.. 
+## А еще.. 
 
 <v-click>
 
@@ -792,11 +856,11 @@ layout: statement
 layout: statement
 ---
 
-### Моя теория: 
+## Моя теория: 
 
 <v-click>
 
-# пока у тебя есть <span style="color: red">свобода остановиться</span>, это любовь.
+# пока у тебя есть <span style="color: green">свобода остановиться</span>, это любовь.
 
 </v-click>
 
@@ -812,7 +876,7 @@ layout: section
 
 # Акт 5
 
-### Ну допустим, а что делать то?
+## Ну допустим, а что делать то?
 
 ---
 layout: intro-image-right
