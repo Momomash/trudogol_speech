@@ -255,47 +255,42 @@ layout: statement
 
 ---
 
-<img src="/public/neo.png">
+<img src="/public/neo.png" style="max-width: 90%; margin: 0 auto">
 <i>Фильм "Матрица" (1999)</i>
 
 ---
 
-<img src="/public/space.png">
+<img src="/public/space.png" style="max-width: 90%; margin: 0 auto">
 <i>Фильм "Office Space" (1999)</i>
 
 ---
 
-<img src="/public/south.png">
+<img src="/public/south.png" style="max-width: 90%; margin: 0 auto">
 <i>Южный парк, эпизод "Make love, not Warcraft" (2004)</i>
 
 ---
 
-<img src="/public/komp.png">
+<img src="/public/komp.png" style="max-width: 90%; margin: 0 auto">
 <i>Сериал "Компьютерщики" (2006)</i>
 
 ---
 
-<img src="/public/silicon.png">
+<img src="/public/silicon.png" style="max-width: 90%; margin: 0 auto">
 <i>Сериал "Кремниевая долина" (2014)</i>
 
 ---
 
-<img src="/public/gill_red.png">
+<img src="/public/gill_red.png" style="max-width: 90%; margin: 0 auto">
 <i>Сериал "Кремниевая долина" (2014)</i>
 
 ---
 
-<img src="/public/robot.png">
+<img src="/public/robot.png" style="max-width: 90%; margin: 0 auto">
 <i>Сериал "Мистер Робот" (2015)</i>
 
 ---
 
-<img src="/public/mystic.png">
-<i>Сериал "Мистический квест" (2020)</i>
-
----
-
-<img src="/public/mystic.png">
+<img src="/public/mystic.png" style="max-width: 90%; margin: 0 auto">
 <i>Сериал "Мистический квест" (2020)</i>
 
 ---
@@ -306,7 +301,7 @@ layout: statement
 
 ---
 
-<img src="/public/typical_img.png">
+<img src="/public/typical_img.png" style="width: 90%; margin: 0 auto">
 <i>Как видит программиста GPT-5.4</i>
 
 ---
@@ -321,8 +316,6 @@ image: /before.png
 
 # Типичный образ
 
-##       
-
 <v-clicks>
 
 * Темнота за окном
@@ -331,10 +324,6 @@ image: /before.png
 * Тащер
 
 </v-clicks>
-
-<v-click>
-<img src="/public/mid.png">
-</v-click>
 
 ---
 layout: image-right
@@ -355,8 +344,6 @@ image: /remote.png
 
 <v-clicks>
 
-* Те, кто и раньше умел отлынивать, просто стали делать это удобнее
-* Те, кто и раньше перерабатывал, стали работать ещё больше
 * Дома исчезла граница между “я живу” и “я ещё чуть-чуть доделаю”
 * “work from home” легко мутирует в “live at work”
 
@@ -430,8 +417,6 @@ layout: statement
 
 # Workaholism: Overview & Current Status
 
-<br/>
-
 <v-click>
 
 ## 4 типа трудоголиков:
@@ -440,10 +425,10 @@ layout: statement
 
 <v-clicks>
 
-- **bulimic** (запоями),
-- **relentless** (без остановок),
-- **savoring** (смакует детали),
-- *attention-deficit** (перепрыгивает с задачи на задачу)
+- **bulimic** (запоями)
+- **relentless** (без остановок)
+- **savoring** (смакует детали)
+- **attention-deficit** (перепрыгивает с задачи на задачу)
 
 </v-clicks>
 
@@ -630,6 +615,23 @@ layout: statement
 ## <span style='color: red'> (Место, где хранятся заначки, продукты или вещи от посторонних глаз)</span>
 
 ---
+
+# Что делает эта команда?
+
+<div class="mt-10 rounded-xl bg-black/35 px-6 py-5 font-mono text-[28px] leading-relaxed text-white">
+  git commit --amend --no-edit --date="2026-06-16 09:00"
+</div>
+
+<v-click>
+
+<div class="mt-10 text-[32px] leading-snug">
+  Она помогает <span style="color: var(--c-bad)">сделать вид</span>, что ты <span style="color: var(--c-good)">не работал ночью</span>.
+</div>
+
+</v-click>
+
+
+---
 layout: intro-image-right
 image: /hidden.png
 ---
@@ -640,7 +642,6 @@ image: /hidden.png
 - я научилась <span style='color: red'>делать вид</span>, что не работаю
 - я научилась прислушиваться к звуку ключей в двери чтобы не <span style='color: red'>попасться</span>
 - я не пушила вечером, оставляя на утро
-- я гуглила как менять время коммитов
 
 </v-clicks>
 

@@ -1,8 +1,37 @@
+:root {
+    --c-text: #FFF9F0;
+    --c-muted: #E0D8CB;
+
+    --c-accent: #FFB000;
+    --c-good: #B9E769;
+    --c-bad: #FF7A59;
+}
+
+.slidev-layout {
+    color: var(--c-text);
+}
+
+.text-accent {
+    color: var(--c-accent);
+}
+
+.text-good {
+    color: var(--c-good);
+}
+
+.text-bad {
+    color: var(--c-bad);
+}
+
+.text-muted {
+    color: var(--c-muted);
+}
+
 .slidev-layout {
     font-size: 1.7rem;
 }
 .slidev-layout li{
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 }
 
 .slidev-layout h2 {
