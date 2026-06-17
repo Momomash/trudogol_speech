@@ -77,39 +77,40 @@ layout: section
 layout: statement
 ---
 
-# Расправим плечики
+# Давайте сыграем в..
+# "я никогда не"
 
-## Спикер опять будет просить поднимать руки
+
+---
+layout: statement
+---
+## Мне никогда не..
+# **снилась** работа
 
 ---
 layout: statement
 ---
 
-# Кому хотя бы раз **снилась** работа?
+## Я никогда не..
+# читал в отпуске рабочие чаты
 
 ---
 layout: statement
 ---
-
-# Кто в отпуске читает рабочие чаты?
-
----
-layout: statement
----
-
-# Кто открывал рабочий ноут ‘на секундочку’ — и пропадал на час/вечер?
+## Я никогда не..
+# открывал рабочий ноут ‘на секундочку’ — и пропадал на час/вечер?
 
 ---
 layout: statement
 ---
-
-# Кто брал с собой в отпуск ноутбук?
+## Я никогда не..
+# брал с собой в отпуск ноутбук?
 
 ---
 layout: statement
 ---
-
-# Кто работает больше 8-ми часов и делает вид, что это временно?
+## Я никогда не..
+# работал больше 8-ми часов и делал вид, что это временно?
 
 ---
 layout: statement
@@ -125,22 +126,59 @@ layout: statement
 
 ---
 layout: intro-image-right
-image: /me.jpg
+image: /me1.png
 ---
 
-<v-clicks>
+- Руковожу разработкой интерфейсов в BIOCAD ~~и что-то понимаю в биологии~~
+
+<span style="visibility: hidden">
+
+- Член Программного Комитета <span style='color: #f86bdb'>HolyJS</span>
+- Инвестирую в настольные игры и крашу Warhammer
+- Бью людей железной палкой
+
+</span>
+
+---
+layout: intro-image-right
+image: /vasya.jpg
+---
+
+- Руковожу разработкой интерфейсов в BIOCAD ~~и что-то понимаю в биологии~~
+- Член Программного Комитета <span style='color: #f86bdb'>HolyJS</span>
+  
+<span style="visibility: hidden">
+
+- Инвестирую в настольные игры и крашу Warhammer
+- Бью людей железной палкой
+
+</span>
+
+---
+layout: intro-image-right
+image: /warh.png
+---
 
 - Руковожу разработкой интерфейсов в BIOCAD ~~и что-то понимаю в биологии~~
 - Член Программного Комитета <span style='color: #f86bdb'>HolyJS</span>
 - Инвестирую в настольные игры и крашу Warhammer
-- ...
 
-</v-clicks>
+<span style="visibility: hidden">
+
+- Бью людей железной палкой
+
+</span>
 
 ---
 layout: intro-image-right
 image: /long.jpg
 ---
+<style>
+
+ul {
+margin-top: -1rem;
+}
+</style>
 
 - Руковожу разработкой интерфейсов в BIOCAD ~~и что-то понимаю в биологии~~
 - Член Программного Комитета <span style='color: #f86bdb'>HolyJS</span>
@@ -167,7 +205,7 @@ layout: statement
 layout: statement
 ---
 
-# Этот доклад не про “работать плохо” <v-click> (не надейтесь)</v-click>
+# Этот доклад не про “работать плохо” <v-click> <i> (не надейтесь) </i> </v-click>
 
 <br/>
 
