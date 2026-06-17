@@ -1088,9 +1088,9 @@ image: /mogila.jpg
 
 <v-clicks>
 
-## Ваш проект, скорее всего, переживёт один вечер без вас. 
+# <span class="text-good">Ваш проект, скорее всего, переживёт один вечер без вас.</span>
 
-## <span style="color: red">А вот вы без себя — нет.</span>
+## <span class="text-bad">А вот вы без себя — нет.</span>
 
 </v-clicks>
 
