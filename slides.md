@@ -10,6 +10,14 @@ layout: intro
 li {
   font-size: 1.5rem;
 }
+
+.text-bad {
+  color: #ef4444;
+}
+
+.text-good {
+  color: #22c55e;
+}
 </style>
 
 <div class="absolute inset-0 bg-[radial-gradient(circle_at_82%_22%,rgba(255,170,60,0.18),transparent_0_22%),linear-gradient(135deg,#0f0f10_0%,#151515_45%,#1b140d_100%)]"></div>
@@ -200,7 +208,7 @@ layout: intro-image-right
 image: /fine.png
 ---
 
-<span style='color: green'>трудолюбие</span> и <span style='color: red'>трудоголизм</span> выглядят похоже снаружи, но
+<span class="text-good">трудолюбие</span> и <span class="text-bad">трудоголизм</span> выглядят похоже снаружи, но
 очень по-разному ощущаются изнутри
 
 ---
@@ -244,7 +252,7 @@ layout: statement
 ## Вброс:
 
 <v-click>
-<span style="color: red">
+<span class="text-bad">
 
 # В айтишной культуре переработка
 # ===
@@ -371,7 +379,7 @@ layout: statement
   </div>
 
   <div v-click class="text-base leading-7">
-    Любовь к работе, состояние потока — работа <span style="color: green">ради результата, с удовольствием </span>
+    Любовь к работе, состояние потока — работа <span class="text-good">ради результата, с удовольствием</span>
   </div>
 </div>
 
@@ -381,7 +389,7 @@ layout: statement
   </div>
 
   <div v-click class="text-base leading-7">
-    Иррациональная аддикция, неспособность остановиться — <span style="color: red">работа ради процесса, без удовлетворения </span>
+    Иррациональная аддикция, неспособность остановиться — <span class="text-bad">работа ради процесса, без удовлетворения</span>
   </div>
 </div>
 
@@ -398,12 +406,11 @@ layout: statement
 
 <v-clicks> 
 
-- Трудоголизм — **поведенческая <span style="color: red">зависимость</span>**: потеря контроля, поглощённость,
+- Трудоголизм — **поведенческая <span class="text-bad">зависимость</span>**: потеря контроля, поглощённость,
   абстиненция, вред для жизни
-- Отличие от вовлеченности: <span style="color: green">вовлечённость</span> позитивна и связана со
-  здоровьем; <span style="color: red">трудоголизм</span> — компульсивен и разрушителен
-- **Дети трудоголиков** берут родительские роли раньше времени и депрессивны — как дети <span style="color: red">
-  алкоголиков</span>
+- Отличие от вовлеченности: <span class="text-good">вовлечённость</span> позитивна и связана со
+  здоровьем; <span class="text-bad">трудоголизм</span> — компульсивен и разрушителен
+- **Дети трудоголиков** берут родительские роли раньше времени и депрессивны — как дети <span class="text-bad">алкоголиков</span>
 - Связан с повышенным давлением, тревогой, бессонницей, выгоранием, набором веса
 - Доказательная база лечения слабая — исследований мало
 
@@ -513,11 +520,11 @@ layout: section
 layout: statement
 ---
 
-# <span style='color: red'>Бессоница</span>
+# <span class="text-bad">Бессоница</span>
 
 ---
 layout: intro-image-right
-image: /sleeep.webp
+image: /sleeep.png
 ---
 
 <v-clicks>
@@ -526,13 +533,13 @@ image: /sleeep.webp
 
 ## Ну кому не снилась работа?
 
-## <span style="color: red">Жаль, что во сне нельзя делать git push</span>
+## <span class="text-bad">Жаль, что во сне нельзя делать git push</span>
 
 </v-clicks>
 
 ---
 layout: intro-image-right
-image: /sleep.png
+image: /sleep.jpeg
 ---
 
 <v-clicks>
@@ -540,15 +547,15 @@ image: /sleep.png
 - ложусь спать
 - не могу уснуть
 - ворочаюсь
-- <span style="color: red"> "пойду поработаю" </span>
-- <span style="color: red"> встречаю рассвет за джирой </span>
-- <span style="color: red"> (слушаю лекцию о вреде от мужа) </span>
+- <span class="text-bad">"пойду поработаю"</span>
+- <span class="text-bad">встречаю рассвет за джирой</span>
+- <span class="text-bad">(слушаю лекцию о вреде от мужа)</span>
 
 </v-clicks>
 
 ---
 layout: intro-image-right
-image: /sleep_grey.png
+image: /sleep_grey.jpeg
 ---
 
 <v-clicks>
@@ -556,12 +563,12 @@ image: /sleep_grey.png
 - ложусь спать
 - не могу уснуть
 - ворочаюсь
-- <span style="color: red"> "пойду работать -> выхвачу"</span>
-- <span style="color: red"> долеживаю до 05:00</span>
-- <span style="color: red"> в 05:30 на носочках выхожу</span>
-- <span style="color: red"> в 06:00 в офисе</span>
-- <span style="color: red"> работаю до 18</span>
-- <span style="color: red"> еду домой большая молодец</span>
+- <span class="text-bad">"пойду работать -> выхвачу"</span>
+- <span class="text-bad">долеживаю до 05:00</span>
+- <span class="text-bad">в 05:30 на носочках выхожу</span>
+- <span class="text-bad">в 06:00 в офисе</span>
+- <span class="text-bad">работаю до 18</span>
+- <span class="text-bad">еду домой большая молодец</span>
 
 </v-clicks>
 
@@ -580,10 +587,10 @@ image: /tasher.png
 
 ---
 layout: intro-image-right
-image: /not_sleep.jpg
+image: /not_sleep.png
 ---
 
-# <span style="color: red"> Замкнутый круг </span>
+# <span class="text-bad">Замкнутый круг</span>
 
 <v-clicks>
 
@@ -602,7 +609,7 @@ layout: statement
 
 <v-click>
 
-# <span style="color:red">Сон === сигнал, что система перегружена</span>
+# <span class="text-bad">Сон === сигнал, что система перегружена</span>
 
 </v-click>
 
@@ -610,9 +617,9 @@ layout: statement
 layout: statement
 ---
 
-# <span style='color: red'>Нычки</span>
+# <span class="text-bad">Нычки</span>
 
-## <span style='color: red'> (Место, где хранятся заначки, продукты или вещи от посторонних глаз)</span>
+## <span class="text-bad">(Место, где хранятся заначки, продукты или вещи от посторонних глаз)</span>
 
 ---
 
@@ -638,9 +645,9 @@ image: /hidden.png
 
 <v-clicks>
 
-- я стала держать два окна браузера — одно для работы, второе "<span style='color: red'>типа</span>" не работаю
-- я научилась <span style='color: red'>делать вид</span>, что не работаю
-- я научилась прислушиваться к звуку ключей в двери чтобы не <span style='color: red'>попасться</span>
+- я стала держать два окна браузера — одно для работы, второе "<span class="text-bad">типа</span>" не работаю
+- я научилась <span class="text-bad">делать вид</span>, что не работаю
+- я научилась прислушиваться к звуку ключей в двери чтобы не <span class="text-bad">попасться</span>
 - я не пушила вечером, оставляя на утро
 
 </v-clicks>
@@ -657,7 +664,7 @@ image: /vodka.png
 ---
 layout: statement
 ---
-# Если работу уже приходится <span style='color: red'>прятать</span> — это нехороший знак
+# Если работу уже приходится <span class="text-bad">прятать</span> — это нехороший знак
 ---
 layout: section
 ---
@@ -693,9 +700,9 @@ image: /meditate.png
 
 <v-clicks>
 
-* <span style="color: red">Триггеришься</span> на безобидные шутки
-* <span style="color: red">Отстраняешься</span> от коллег/друзей/развлечений
-* Начинаешься <span style="color: red">отказываться</span> от хобби в пользу работы
+* <span class="text-bad">Триггеришься</span> на безобидные шутки
+* <span class="text-bad">Отстраняешься</span> от коллег/друзей/развлечений
+* Начинаешься <span class="text-bad">отказываться</span> от хобби в пользу работы
 
 </v-clicks>
 
@@ -764,7 +771,7 @@ layout: intro-image-right
 image: /health.png
 ---
 
-# <span style="color: red">Как задолбать организм</span>
+# <span class="text-bad">Как задолбать организм</span>
 
 <v-clicks>
 
@@ -782,9 +789,9 @@ image: /health.png
 layout: statement
 ---
 
-# Трудоголизм — это  <span style="color: red">социально одобряемый</span> способ себя разрушать
+# Трудоголизм — это  <span class="text-bad">социально одобряемый</span> способ себя разрушать
 
-## <span style="color: red">Зато не алкоголик, а тащер</span>
+## <span class="text-bad">Зато не алкоголик, а тащер</span>
 
 ---
 layout: intro-image-right
@@ -799,7 +806,7 @@ image: /silicon_1.png
 * "Рынок работодателя"
 * Страх устаревания из-за ИИ
 * ...
-* <span style="color: red">"Буду херачить БОЛЬШЕ чтобы доказать полезность"</span>
+* <span class="text-bad">"Буду херачить БОЛЬШЕ чтобы доказать полезность"</span>
 
 </v-clicks>
 
@@ -824,7 +831,7 @@ layout: intro-image-right
 image: /crisis.png
 ---
 
-# <span style="color: red">Кризисы вообще неизбежны...</span>
+# <span class="text-bad">Кризисы вообще неизбежны...</span>
 
 <v-click>
 
@@ -861,13 +868,13 @@ layout: statement
 
 <v-click>
 
-# пока у тебя есть <span style="color: green">свобода остановиться</span>, это любовь.
+# пока у тебя есть <span class="text-good">свобода остановиться</span>, это любовь.
 
 </v-click>
 
 <v-click>
 
-# когда становится <span style="color: red">бессознательным</span>, это тревожный звонок. 
+# когда становится <span class="text-bad">бессознательным</span>, это тревожный звонок.
 
 </v-click>
 
@@ -884,7 +891,7 @@ layout: intro-image-right
 image: /roof.png
 ---
 
-# <span style="color: red"> Звоночки:</span> 
+# <span class="text-bad">Звоночки:</span>
 
 <v-clicks>
 
@@ -906,7 +913,7 @@ layout: intro-image-right
 image: /dragon.png
 ---
 
-## <span style="color: green">Не геройствуйте</span>
+## <span class="text-good">Не геройствуйте</span>
 
 <br/>
 
@@ -923,7 +930,7 @@ layout: intro-image-right
 image: /cat_wait.jpg
 ---
 
-## <span style="color: green">У тяжёлого периода должен быть выход</span>
+## <span class="text-good">У тяжёлого периода должен быть выход</span>
 
 <br/>
 
@@ -939,7 +946,7 @@ layout: intro-image-right
 image: /5_2.jpg
 ---
 
-## <span style="color: green">Слушайте тело</span>
+## <span class="text-good">Слушайте тело</span>
 
 <br/>
 
@@ -958,7 +965,7 @@ layout: intro-image-right
 image: /cat_not_sleep.png
 ---
 
-## <span style="color: green">Спать. Надо.</span>
+## <span class="text-good">Спать. Надо.</span>
 
 <br/>
 
@@ -975,7 +982,7 @@ layout: intro-image-right
 image: /yarn.jpeg
 ---
 
-## <span style="color: green">Хобби/спорт/жизнь</span>
+## <span class="text-good">Хобби/спорт/жизнь</span>
 
 <br/>
 
@@ -995,7 +1002,7 @@ layout: intro-image-right
 image: /not_work.jpg
 ---
 
-## <span style="color: green">Не всё надо вывозить</span>
+## <span class="text-good">Не всё надо вывозить</span>
 
 <br/>
 
