@@ -15,18 +15,6 @@
     color: var(--c-accent);
 }
 
-.text-good {
-    color: var(--c-good);
-}
-
-.text-bad {
-    color: var(--c-bad);
-}
-
-.text-muted {
-    color: var(--c-muted);
-}
-
 .slidev-layout {
     font-size: 1.7rem;
 }
@@ -37,4 +25,16 @@
 .slidev-layout h2 {
     color: var(--c-muted);
     text-transform: uppercase;
+}
+
+.slidev-layout .text-good {
+    color: var(--c-good);
+}
+
+.slidev-layout .text-bad {
+    color: var(--c-bad);
+}
+
+.slidev-layout .text-muted {
+    color: var(--c-muted);
 }

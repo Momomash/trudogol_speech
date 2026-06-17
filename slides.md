@@ -191,13 +191,15 @@ layout: statement
 
 # <span class="text-bad">Дисклеймер</span>
 
+<br/>
+
 <v-clicks>
 
-Возможно это не про вас (и хорошо если так)
+<p style="margin-bottom: 2rem">Возможно это не про вас (и хорошо если так)</p>
 
-Но если про вас — задумайтесь
+<p style="margin-bottom: 2rem">Но если про вас — задумайтесь</p>
 
-Спикер — не психолог и если у вас проблема, то обратитесь к специалисту
+<p style="margin-bottom: 2rem">Спикер — не психолог и если у вас проблема, то обратитесь к специалисту</p>
 
 </v-clicks>
 
@@ -223,7 +225,11 @@ layout: statement
 
 <v-click>
 
+<span class="text-bad" style="margin-top: 1rem">
+
 ## <span class="text-bad"> ...Иначе мы не полетели бы в космос </span>
+
+</span>
 
 </v-click>
 
@@ -364,13 +370,13 @@ image: /remote.png
 
 <v-click>
 
-# Удалёнка не создала трудоголизм
+<h1 style="font-size:2.2rem; margin-bottom: 2rem">Удалёнка не создала трудоголизм </h1>
 
 </v-click>
 
 <v-click>
 
-## Она усилила то, что уже было
+<h2 style="margin-bottom: 1rem"> Она усилила то, что уже было</h2>
 
 </v-click>
 
@@ -448,35 +454,36 @@ layout: statement
 
 # Workaholism: Overview & Current Status
 
+
+<div style="display: flex; flex-direction: row; justify-content: space-around">
+
 <v-click>
+<div>
 
-## 4 типа трудоголиков:
-
-</v-click>
-
-<v-clicks>
+<h2 class="text-bad">4 типа трудоголиков:</h2>
 
 - **bulimic** (запоями)
 - **relentless** (без остановок)
 - **savoring** (смакует детали)
-- **attention-deficit** (перепрыгивает с задачи на задачу)
+- **attention-deficit** (перепрыгивающий)
 
-</v-clicks>
-
-<v-click>
-
-## Последствия
-
+</div>
 </v-click>
 
-<v-clicks>
+<v-click>
+<div>
+
+<h2 class="text-bad">Последствия</h2>
 
 - Бессонница
 - Выгорание
 - Конфликт работы и семьи
 - Низкая удовлетворённость жизнью
 
-</v-clicks>
+</div>
+</v-click>
+
+</div>
 
 <div class="absolute bottom-10 text-sm opacity-50">
   Источник: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4117275/">Andreassen C.S. — PMC4117275</a>
@@ -553,11 +560,11 @@ image: /sleeep.png
 
 <v-clicks>
 
-# Начиналось безобидно
+<h1 style="margin-bottom: 2rem"> Начиналось безобидно</h1>
 
-## Ну кому не снилась работа?
+<h2 style="margin-bottom: 1rem"> Ну кому не снилась работа?</h2>
 
-## <span class="text-bad">Жаль, что во сне нельзя делать git push</span>
+<h2 class="text-bad" style="margin-bottom: 2rem">Жаль, что во сне нельзя делать git push</h2>
 
 </v-clicks>
 
@@ -641,22 +648,27 @@ layout: statement
 layout: statement
 ---
 
-# <span class="text-bad">Нычки</span>
+<h1 class="text-bad" style="margin-bottom: 2rem">Нычки</h1>
 
-## <span class="text-bad">(Место, где хранятся заначки, продукты или вещи от посторонних глаз)</span>
+## (Место, где хранятся заначки, продукты или вещи от посторонних глаз)
 
 ---
 
 # Что делает эта команда?
 
-<div class="mt-10 rounded-xl bg-black/35 px-6 py-5 font-mono text-[28px] leading-relaxed text-white">
-  git commit --amend --no-edit --date="2026-06-16 09:00"
+<div class="mt-10 rounded-xl border border-white/10 bg-[#111111] px-6 py-5 font-mono text-[28px] leading-relaxed shadow-lg">
+  <span style="color: #C678DD;">git </span>
+  <span style="color: #61AFEF;">commit </span>
+  <span style="color: #E5C07B;">--amend </span>
+  <span style="color: #E5C07B;">--no-edit </span>
+  <span style="color: #98C379;">--date</span><span style="color: #ABB2BF;">=</span><span style="color: #98C379;">"2026-06-16 09:00"</span>
 </div>
 
 <v-click>
 
 <div class="mt-10 text-[32px] leading-snug">
-  Она помогает <span style="color: var(--c-bad)">сделать вид</span>, что ты <span style="color: var(--c-good)">не работал ночью</span>.
+  Она помогает <span style="color: var(--c-bad)">сделать вид</span>, что ты
+  <span style="color: var(--c-good)">не работал ночью</span>.
 </div>
 
 </v-click>
@@ -774,7 +786,7 @@ image: /zerkalo.png
 <v-clicks>
 
 * Зевота — реальный физиологический рефлекс
-* Установлена связь с связи зевоты со стрессом, тревогой, и перегрузкой
+* Установлена связь с связи зевоты со стрессом, тревогой, <br/> и перегрузкой
 * Одна из гипотез — терморегуляция
 
 </v-clicks>
@@ -815,7 +827,7 @@ layout: statement
 
 # Трудоголизм — это  <span class="text-bad">социально одобряемый</span> способ себя разрушать
 
-## <span class="text-bad">Зато не алкоголик, а тащер</span>
+<h2 class="text-bad" style='margin-top: 1rem'>Зато не алкоголик, а тащер</h2>
 
 ---
 layout: intro-image-right
@@ -951,7 +963,7 @@ image: /dragon.png
 
 ---
 layout: intro-image-right
-image: /zerkalo.png
+image: /free.png
 ---
 
 ## <span class="text-good">У тяжёлого периода должен быть выход</span>
@@ -997,7 +1009,7 @@ image: /cat_not_sleep.png
 
 - Надо. Спать.
 - Настройте режим
-- Если не засыпается примерно 15–20 минут, лучше встать ( <a href="https://www.sleepprimarycareresources.org.au/insomnia/bbti/insomnia-stimulus-control-therapy" target="_blank">insomnia stimulus control therapy</a> )
+- Если не засыпается примерно 15–20 минут, лучше встать <br/> <a href="https://www.sleepprimarycareresources.org.au/insomnia/bbti/insomnia-stimulus-control-therapy" target="_blank">insomnia stimulus control therapy</a>
 
 </v-clicks>
 
