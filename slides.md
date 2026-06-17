@@ -85,32 +85,32 @@ layout: statement
 layout: statement
 ---
 ## Мне никогда не..
-# **снилась** работа
+# <span class="text-bad"> **снилась** работа </span>
 
 ---
 layout: statement
 ---
 
 ## Я никогда не..
-# читал в отпуске рабочие чаты
+# <span class="text-bad"> читал в отпуске рабочие чаты </span>
 
 ---
 layout: statement
 ---
 ## Я никогда не..
-# открывал рабочий ноут ‘на секундочку’ — и пропадал на час/вечер?
+# <span class="text-bad"> открывал рабочий ноут ‘на секундочку’ — и пропадал на час/вечер? </span>
 
 ---
 layout: statement
 ---
 ## Я никогда не..
-# брал с собой в отпуск ноутбук?
+# <span class="text-bad"> брал с собой в отпуск ноутбук? </span>
 
 ---
 layout: statement
 ---
 ## Я никогда не..
-# работал больше 8-ми часов и делал вид, что это временно?
+# <span class="text-bad"> работал больше 8-ми часов и делал вид, что это временно? </span>
 
 ---
 layout: statement
@@ -120,7 +120,7 @@ layout: statement
 
 <v-click>
 
-# и я — трудоголик
+# <span class="text-bad"> и я — трудоголик </span>
 
 </v-click>
 
@@ -189,7 +189,7 @@ margin-top: -1rem;
 layout: statement
 ---
 
-# <span color="red">Дисклеймер</span>
+# <span class="text-bad">Дисклеймер</span>
 
 <v-clicks>
 
@@ -205,13 +205,13 @@ layout: statement
 layout: statement
 ---
 
-# Этот доклад не про “работать плохо” <v-click> <i> (не надейтесь) </i> </v-click>
+# <span class="text-bad"> Этот доклад не про “работать плохо” <v-click> <i> (не надейтесь) </i> </v-click> </span>
 
 <br/>
 
 <v-click>
 
-# это доклад про “можно перегнуть”
+# <span class="text-good"> это доклад про “можно перегнуть” </span>
 
 </v-click>
 
@@ -223,7 +223,7 @@ layout: statement
 
 <v-click>
 
-## ...Иначе мы не полетели бы в космос
+## <span class="text-bad"> ...Иначе мы не полетели бы в космос </span>
 
 </v-click>
 
@@ -524,7 +524,7 @@ layout: statement
 layout: statement
 ---
 
-## Если тебе нравится работа, это не делает тебя автоматически защищённым от зависимости.
+## <span class="text-bad"> Если тебе нравится работа, это не делает тебя автоматически защищённым от зависимости. </span>
 
 ---
 layout: statement
@@ -735,11 +735,11 @@ layout: intro-image-right
 image: /not_sun.png
 ---
 
-# "Да ну нет никаких проблем"
+# <span class="text-bad"> "Да ну нет никаких проблем"</span>
 
 <v-clicks>
 
-# "Просто так совпало"
+# <span class="text-bad"> "Просто так совпало" </span>
 
 </v-clicks>
 
@@ -747,7 +747,7 @@ image: /not_sun.png
 layout: statement
 ---
 
-# А потом я начала задыхаться
+# <span class="text-bad"> А потом я начала задыхаться </span>
 
 ---
 layout: intro-image-right
@@ -1013,7 +1013,7 @@ image: /yarn.jpeg
 <v-clicks>
 
 - Вы — не только работа и "харды"
-- Пробуйте новое (я про хобби!)
+- Пробуйте новое (<i>я про хобби!</i>)
 - Найдите интересный спорт
 - Гуляйте
 - Заведите собаню
@@ -1032,7 +1032,7 @@ image: /not_work.png
 
 <v-clicks>
 
-- Учитесь говорить "нет". 
+- Учитесь говорить "нет"
 - Не каждый рывок надо выигрывать 
 - Вовремя остановиться — это не слабость, а ответственность
 

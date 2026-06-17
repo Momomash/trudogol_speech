@@ -1,6 +1,6 @@
 :root {
     --c-text: #FFF9F0;
-    --c-muted: #E0D8CB;
+    --c-muted: #c4beb5;
 
     --c-accent: #FFB000;
     --c-good: #B9E769;
@@ -35,6 +35,6 @@
 }
 
 .slidev-layout h2 {
-    opacity: 0.7;
+    color: var(--c-muted);
     text-transform: uppercase;
 }
