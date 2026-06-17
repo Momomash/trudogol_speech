@@ -6,20 +6,6 @@ title: Дневник неанонимного трудоголика
 layout: intro
 ---
 
-<style>
-li {
-  font-size: 1.5rem;
-}
-
-.text-bad {
-  color: #ef4444;
-}
-
-.text-good {
-  color: #22c55e;
-}
-</style>
-
 <div class="absolute inset-0 bg-[radial-gradient(circle_at_82%_22%,rgba(255,170,60,0.18),transparent_0_22%),linear-gradient(135deg,#0f0f10_0%,#151515_45%,#1b140d_100%)]"></div>
 
 <div class="absolute inset-0 pointer-events-none">
@@ -742,7 +728,7 @@ image: /cat_sleep.png
 
 ---
 layout: intro-image-right
-image: /cat_wait.jpg
+image: /zerkalo.png
 ---
 
 # "Нервная зевота"
@@ -927,7 +913,7 @@ image: /dragon.png
 
 ---
 layout: intro-image-right
-image: /cat_wait.jpg
+image: /zerkalo.png
 ---
 
 ## <span class="text-good">У тяжёлого периода должен быть выход</span>
@@ -943,7 +929,7 @@ image: /cat_wait.jpg
 
 ---
 layout: intro-image-right
-image: /5_2.jpg
+image: /5_2.png
 ---
 
 ## <span class="text-good">Слушайте тело</span>
@@ -999,7 +985,7 @@ image: /yarn.jpeg
 
 ---
 layout: intro-image-right
-image: /not_work.jpg
+image: /not_work.png
 ---
 
 ## <span class="text-good">Не всё надо вывозить</span>
